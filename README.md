@@ -1,7 +1,7 @@
 # Tiny2Joypad
 ![Tiny2Joypad](https://user-images.githubusercontent.com/62051355/127754761-dd8d4e07-420a-448c-9376-6983ec80674a.png)
 
-本機は、Daniel C氏.が開発したAttiny85で動作する携帯ゲーム機の互換機です。<BR>
+本機は、Daniel C氏.が開発したAttiny85で動作する携帯ゲーム機「Tinyjoypad」の互換機です。<BR>
 回路図、ソフトウェアなど詳細は、下記のWebページを参照ください。<BR>
 	Tinyjoypad.com<BR>
 https://www.tinyjoypad.com/
